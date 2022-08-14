@@ -1,2 +1,2 @@
-# TickTacToe
-TickTacToeGame
+# TicTacToe
+TicTacToeGame
